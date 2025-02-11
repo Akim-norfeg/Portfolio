@@ -1,4 +1,4 @@
-# 📊 Yandex Dashboards
+# 📊 Tableau Dashboards
 
 | Name               | Description                      | Link |
 |--------------------|--------------------------------|------|
